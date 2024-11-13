@@ -2,7 +2,7 @@
 <herochoose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<info number="19999">
 		<name_ID>Jinglingnan_6</name_ID>
-		<name_ch>破灭之剑</name_ch>
+		<name_ch>亚瑟</name_ch>
 		<pic_thumb>16</pic_thumb>
 		<hero_des>[00b6fc]弧月斩：[-]以自身为圆心挥舞长剑，对范围内的敌方单位造成伤害并眩晕</hero_des>
 		<hero_des2>[00b6fc]裂地斩：[-]向前方举剑劈斩，打击直线上的敌方单位，造成伤害和减速</hero_des2>
@@ -30,7 +30,7 @@
 	</info>
 	<info number="10001">
 		<name_ID>Nvyao_5</name_ID>
-		<name_ch>飞樱漫舞</name_ch>
+		<name_ch>伽罗</name_ch>
 		<pic_thumb>32</pic_thumb>
 		<hero_des>[00b6fc]樱花之风：[-]智子释放出一道夹杂着樱花的劲风，被吹拂过的敌人将陷入沉默中</hero_des>
 		<hero_des2>[00b6fc]飞樱漫舞：[-]智子在漫天的樱花中载歌载舞，让附近的敌人沉浸其中无法攻击</hero_des2>

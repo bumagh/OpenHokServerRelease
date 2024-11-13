@@ -121,7 +121,7 @@
 		<Name>深渊之刺</Name>
 		<HeroKind>4</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>4600</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10010</UnlockHeroID>
@@ -134,7 +134,7 @@
 		<Name>风暴之女</Name>
 		<HeroKind>2</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>7700</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10011</UnlockHeroID>
@@ -147,7 +147,7 @@
 		<Name>炼狱使者</Name>
 		<HeroKind>1</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>23000</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10012</UnlockHeroID>
@@ -160,7 +160,7 @@
 		<Name>寒辉之羽</Name>
 		<HeroKind>3</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>7700</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10013</UnlockHeroID>
@@ -173,7 +173,7 @@
 		<Name>石斧巨人</Name>
 		<HeroKind>4</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>7700</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10014</UnlockHeroID>
@@ -186,7 +186,7 @@
 		<Name>惩戒者</Name>
 		<HeroKind>2</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>7700</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10015</UnlockHeroID>
@@ -199,7 +199,7 @@
 		<Name>洞窟蝙蝠</Name>
 		<HeroKind>2</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>9200</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10016</UnlockHeroID>
@@ -212,7 +212,7 @@
 		<Name>瘟疫巫师</Name>
 		<HeroKind>2</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>9200</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10017</UnlockHeroID>
@@ -225,7 +225,7 @@
 		<Name>嗜魂者</Name>
 		<HeroKind>1</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>17300</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10018</UnlockHeroID>
@@ -238,7 +238,7 @@
 		<Name>泰狱神</Name>
 		<HeroKind>4</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>17300</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10019</UnlockHeroID>
@@ -252,7 +252,7 @@
 		<Name>黑魔律</Name>
 		<HeroKind>2</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>7700</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10021</UnlockHeroID>
@@ -265,7 +265,7 @@
 		<Name>幻魔之刃</Name>
 		<HeroKind>1</HeroKind>
 		<un8ConsumeType>1</un8ConsumeType>
-		<n32Price>13800</n32Price>
+		<n32Price>1</n32Price>
 		<bIsShowInShop>1</bIsShowInShop>
 		<bIsShowInHeroInfo>1</bIsShowInHeroInfo>
 		<UnlockHeroID>10022</UnlockHeroID>
